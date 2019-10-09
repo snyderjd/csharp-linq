@@ -1,0 +1,11 @@
+/home/snyderjosephd/nss/workspace/csharp/exercises/linq/obj/Debug/netcoreapp3.0/linq.csprojAssemblyReference.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/linq/obj/Debug/netcoreapp3.0/linq.AssemblyInfoInputs.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/linq/obj/Debug/netcoreapp3.0/linq.AssemblyInfo.cs
+/home/snyderjosephd/nss/workspace/csharp/exercises/linq/bin/Debug/netcoreapp3.0/linq
+/home/snyderjosephd/nss/workspace/csharp/exercises/linq/bin/Debug/netcoreapp3.0/linq.deps.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/linq/bin/Debug/netcoreapp3.0/linq.runtimeconfig.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/linq/bin/Debug/netcoreapp3.0/linq.runtimeconfig.dev.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/linq/bin/Debug/netcoreapp3.0/linq.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/linq/bin/Debug/netcoreapp3.0/linq.pdb
+/home/snyderjosephd/nss/workspace/csharp/exercises/linq/obj/Debug/netcoreapp3.0/linq.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/linq/obj/Debug/netcoreapp3.0/linq.pdb
