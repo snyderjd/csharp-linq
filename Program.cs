@@ -98,15 +98,26 @@ namespace linq
             };
 
             double revenue = purchases.Sum();
-            Console.WriteLine($"Total Revenue: ${revenue}");
+            // Console.WriteLine($"Total Revenue: ${revenue}");
 
             // What is our most expensive product?
             double mostExpensive = purchases.Max();
-            Console.WriteLine($"The most expensive product costs ${mostExpensive}.");
+            // Console.WriteLine($"The most expensive product costs ${mostExpensive}.");
 
+            // ========== Partitioning Operations ==========
 
+            // Store each number in the following list until a perfect square is detected
+            List<int> wheresSquaredo = new List<int>()
+            {
+                66, 12, 8, 27, 82, 34, 7, 50, 19, 46, 81, 23, 30, 4, 68, 14
+            };
 
+            IEnumerable<int> unsquaredNums = wheresSquaredo.TakeWhile(num => (Math.Sqrt(num) % 1) != 0);
 
+            foreach(int num in unsquaredNums)
+            {
+                // Console.Write($"{num}, ");
+            }
 
 
 
